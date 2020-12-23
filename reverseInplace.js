@@ -1,3 +1,4 @@
+// O(n) time || O(1) space
 function reverse(arrayOfChars) {
 
     // Reverse the input array of characters in place
